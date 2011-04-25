@@ -1,0 +1,22 @@
+---
+abstract: 'Apache2::REST::Response Writer for IODEF '
+author:
+  - 'Wes Young, <wes@barely3am.com>'
+distribution_type: module
+generated_by: 'Module::Install version 0.76'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: CIF-WebAPI-Writer-iodef
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  CIF::WebAPI: 0.01_01
+  XML::IODEF: 0.09
+  perl: 5.8.0
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01_01
